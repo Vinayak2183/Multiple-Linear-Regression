@@ -29,7 +29,6 @@ following Python libraries used :
 - `pandas`
 - `numpy`
 - `matplotlib`
-- `seaborn`
 - `scikit-learn`
 
 
